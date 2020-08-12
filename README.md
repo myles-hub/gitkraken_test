@@ -4,4 +4,4 @@ dev : 2
 
 dev：3
 
-dev：4，progress in 50%(bug fixed.);
+dev：4，progress in 100%(bug fixed.);
